@@ -1,0 +1,22 @@
+{
+  "name": "cywork-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypursavinash/cywork-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cypursavinash/cywork-backend/issues"
+  },
+  "homepage": "https://github.com/cypursavinash/cywork-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
